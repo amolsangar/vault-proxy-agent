@@ -74,3 +74,6 @@ curl \
 Sample Vault CLI command:
 
 `vault kv get secret/test/one/two/three`
+
+## Architecture Diagram
+![Vault Proxy Solution 1 Architecture Diagram](https://user-images.githubusercontent.com/41895348/184432383-046b61b0-ae0e-430a-a201-3cb739f66734.png)
